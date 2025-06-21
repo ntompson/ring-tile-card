@@ -3,3 +3,4 @@ dist/ring-tile-card.js.map
 build/
 .parcel-cache/
 .vscode
+build/
